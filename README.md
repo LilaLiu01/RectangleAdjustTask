@@ -1,1 +1,1 @@
-![Uploading Screenshot 2024-09-02 at 09.54.39.png…]()
+![Example Image](https://example.com/example.png](https://drive.google.com/file/d/1OidclWxt8xOKbjq2-cEiE2Hr8_rqbfPy/view?usp=sharing)
